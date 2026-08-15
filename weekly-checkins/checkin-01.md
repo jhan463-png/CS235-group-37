@@ -1,1 +1,1 @@
-[Board snapshot]./weekly-checkins/screenshots/checkin-board-NN.png
+[Board snapshot]./weekly-checkins/screenshots/checkin-board-01.png
